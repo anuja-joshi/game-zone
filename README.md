@@ -4,10 +4,6 @@
 This is how my beautiful GameZone looks like ✨✨
 
 <img width="1788" alt="Screenshot 2024-01-03 at 12 39 48 PM" src="https://github.com/anuja-joshi/game-zone/assets/5124042/b4789f42-3063-455b-92ad-e53cdb90315a">
-<img width="1784" alt="Screenshot 2024-01-03 at 12 40 01 PM" src="https://github.com/anuja-joshi/game-zone/assets/5124042/0e38897b-71b7-43b2-acc0-427d4bf3eb4f">
-
-<img width="1785" alt="Screenshot 2024-01-03 at 12 40 24 PM" src="https://github.com/anuja-joshi/game-zone/assets/5124042/aa3c9766-2b40-4bec-9667-143fc3444e41">
-
 
 
 
