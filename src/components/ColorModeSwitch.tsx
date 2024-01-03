@@ -9,7 +9,7 @@ const ColorModeSwitch = () => {
         onChange={toggleColorMode}
         colorScheme="green"
       />
-      <Text>{colorMode} Mode</Text>
+      <Text whiteSpace="nowrap">{colorMode} Mode</Text>
     </HStack>
   );
 };
