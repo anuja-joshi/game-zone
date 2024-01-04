@@ -1,10 +1,15 @@
 
 # GameZone
 
-This is how my beautiful GameZone looks like ✨✨
+This is how my beautiful GameZone looks like ✨✨ 
 
 <img width="1788" alt="Screenshot 2024-01-03 at 12 39 48 PM" src="https://github.com/anuja-joshi/game-zone/assets/5124042/b4789f42-3063-455b-92ad-e53cdb90315a">
 
+
+
+
+
+still curious? try the live site here https://game-zone-three.vercel.app/
 
 
 
